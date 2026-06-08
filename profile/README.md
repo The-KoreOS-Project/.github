@@ -25,4 +25,6 @@
 
 ------
 
-<img src="./kicon.png">
+<p align="center">
+  <img src="./kicon.png" width="400">
+</p>
